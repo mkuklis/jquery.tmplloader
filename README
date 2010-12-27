@@ -1,8 +1,18 @@
 Little utility which loads and caches remote templates on demend. Compatible with various template engines.
 
+dependencies:
+ - jQuery
+
 usage:
 
     $.tmplLoader.get("template-name" function(templateContent){ 
       // callback
     }); 
 
+override default options:
+
+    $.tmplLoader.init(options);
+
+or:
+
+  $.tmplLoader.get("template-name", callback, options);
