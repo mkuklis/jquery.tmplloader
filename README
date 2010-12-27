@@ -5,7 +5,7 @@ dependencies:
 
 usage:
 
-    $.tmplLoader.get("template-name" function(templateContent){ 
+    $.tmplLoader.get("template-name" function(content){ 
       // callback
     }); 
 
