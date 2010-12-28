@@ -1,4 +1,4 @@
-Little utility which loads and caches remote templates on demend. Compatible with various template engines.
+Little utility which loads and caches remote templates on demand. Compatible with various template engines.
 
 dependencies:
  - jQuery
