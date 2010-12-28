@@ -1,5 +1,5 @@
 /*
- * jQuery Template loader
+ * jQuery Remote Template loader
  * Copyright 2010 Michal Kuklis
  * Released under the MIT and GPL licenses.
  */
